@@ -97,7 +97,7 @@ git push -u origin main
 - Name: `insurance-backend`
 - Region: Select closest to you
 - Branch: `main`
-- **Root Directory**: `server` ← IMPORTANT!
+- **Root Directory**: `web tech 8/server` ← IMPORTANT!
 - Runtime: `Node`
 - Build Command: `npm install`
 - Start Command: `node server.js`
@@ -137,7 +137,7 @@ Click "Create Web Service"
 
 - Name: `insurance-frontend`
 - Branch: `main`
-- **Root Directory**: `client-app` ← IMPORTANT!
+- **Root Directory**: `web tech 8/client-app` ← IMPORTANT!
 - Build Command: `npm install && npm run build`
 - Publish Directory: `dist`
 
